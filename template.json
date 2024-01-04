@@ -1,0 +1,7 @@
+{
+  "name": "wails template for react-vite-ts",
+  "shortname": "wails-react-vite-ts",
+  "author": "halllllll",
+  "description": "a templte for wails frontend with vite(v5), react(v18), typescript(v5)",
+  "helpurl": "https://github.com/halllllll/wails-react-vite-ts"
+}
