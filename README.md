@@ -11,7 +11,15 @@ wailsのフロントエンドをviteで`react-swc-ts`にしたテンプレート
 |TypeScript|v5|
 
 
-フロントエンドのパッケージインストールおよび実行に`bun`を使っているので，`bun`が無い環境では動かないかもしれません
+フロントエンドのパッケージインストールおよび実行に`bun`を使っているので，`bun`が無い環境では動かないかもしれません。またESLintを剥がして`biome`を使っています
+
+## useage
+
+vscodeの場合`-ide vscode`オプションを使うと便利です
+
+```
+wails init -n sample -t https://github.com/halllllll/wails-react-vite-ts -ide vscode
+```
 
 ## Live Development
 
